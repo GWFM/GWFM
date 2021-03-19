@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rodrigo (@GWFM)
+- 👀 I’m interested in everything in the world!
+- 🌱 I’m currently learning C.
+- 📫 Leave a message
