@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Rodrigo (@GWFM)
-- 👀 I’m interested in everything in the world!
-- 🌱 I’m currently learning C.
+**👨🏼‍🎓 Hi, I’m Rodrigo (@GWFM)**
+==================================
+
+- 🚀 I am passionate about technology!
+- 💻 I’m currently learning C.
 - 📫 Leave a message
