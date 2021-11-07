@@ -8,8 +8,6 @@ I am passionate about Cars, Tech and Programming.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GWFM&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GWFM&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💻 My Languages
 
 - C
