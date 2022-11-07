@@ -11,5 +11,6 @@ I am passionate about Cars, Tech and Programming.
 ## 💻 My Languages
 
 - C
+- Java
 - Haskell
 - Python (Just started learning)
