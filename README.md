@@ -13,4 +13,4 @@ I am passionate about Cars, Tech and Programming.
 - C
 - Java
 - Haskell
-- Python (Just started learning)
+- Python
