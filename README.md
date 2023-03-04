@@ -10,7 +10,7 @@ I am passionate about Cars, Tech and Programming.
 
 ## 💻 My Languages
 
-- C
+- C/C#
 - Java
 - Haskell
 - Python
