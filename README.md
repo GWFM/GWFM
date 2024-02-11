@@ -69,7 +69,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GWFM/GWFM/output/snake.svg" alt="Snake animation" />
-
-###
-
