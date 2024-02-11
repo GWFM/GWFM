@@ -67,10 +67,6 @@
   <img src="https://streak-stats.demolab.com?user=GWFM&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GWFM&count_private=true&show_icons=true&theme=synthwave&hide=contribs&hide_border=true" height="220" alt="streak graph"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/GWFM/GWFM/output/snake.svg" alt="Snake animation" />
