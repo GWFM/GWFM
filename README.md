@@ -7,7 +7,7 @@
 ###
 
 <p align="left">I’m a Software Engineer studenting at Universidade do Minho, Portugal!</p>
-<p align="left">I am passionate about Cars, Tech and Programming.</p>
+<p align="left">I am passionate about cars, tech and programming.</p>
 
 ###
 
